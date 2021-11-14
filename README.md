@@ -3,12 +3,32 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dark-eraser&label=Profile%20views&color=0e75b6&style=flat" alt="dark-eraser" /> </p>
 
+## The Project
+
+### About
+
+​	This project is about simplifying the search for a specific product on the popular second-hand online shops Ricardo, Anibis and Ebay. It is mainly based on the python library selenium which is used to simulate user input. The script basically checks every 10 seconds for new items on the product-search result page and sends a notification if a product corresponds to user parameters like price and name.
+The notifications are handled using pushbullet, but I’m currently working on using simple email pushes also.
+
+### Dependencies
+
+In order for the script to work you only need to chromedriver which corresponds to the version of google chrome client, which can be checked on the “about” menu of chrome.
+
+Get your version at https://chromedriver.chromium.org.
+
+Check that you have the latest python version with 
+
+```bash
+sudo apt install python
+```
+
+Also make sure that you have selenium installed with ```pip install selenium```.
+
+## About Me
+
 - 🌱 I’m currently learning **Kotlin, ReactJS and Kubernetes**
-
 - 👨‍💻 All of my projects are available at [https://github.com/dark-eraser/projects.git](https://github.com/dark-eraser/projects.git)
-
 - 💬 Ask me about **Python, Scraping and Java**
-
 - 📫 How to reach me **colonnad@ethz.ch**
 
 <h3 align="left">Connect with me:</h3>
