@@ -11,7 +11,7 @@ from pushbullet import PushBullet
 from string import digits
 from time import sleep
 from selenium.common.exceptions import NoSuchElementException
-API_KEY = "o.vFmaJ46t3msllT0UPbjlyjAckdKIV6fV"
+API_KEY = ""
 SEEN_PRODS =[]
 
 class Product_Price():
