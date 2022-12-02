@@ -11,7 +11,6 @@ from pushbullet import PushBullet
 
 from time import sleep
 from selenium.common.exceptions import NoSuchElementException
-API_KEY = "o.vFmaJ46t3msllT0UPbjlyjAckdKIV6fV"
 BUY_NOW_PRICE = 850
 FOUND = False
 KEYWORD = "3070"
